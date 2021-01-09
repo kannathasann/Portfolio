@@ -1,0 +1,123 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  max-width:100%;
+  margin: auto;
+}
+.header {
+  background-image: url('https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  padding: 180px 0;
+}
+img{
+border-radius: 50%;
+}
+.secondimg
+	{
+		width:20%;
+		position: absolute;
+		top:10%;
+		left:10%;
+		margin:0 auto;
+	}
+.heading
+	{
+		border:none;
+		outline:none;
+		background:none;
+		color:black;
+		position:absolute;
+		top:15%;
+		width:100%;
+		text-align:top;
+		font-size:1.7rem;
+		text-shadow:5px 5px 10px #000000;
+		padding-left:35%;
+		
+	}
+	.head
+	{
+		border:none;
+		outline:none;
+		background:none;
+		color:white;
+		position:absolute;
+		top:28%;
+		width:100%;
+		text-align:top;
+		font-size:1.2rem;
+		text-shadow:2px 2px 2px #000000;
+		padding-left:37%;
+		
+	}
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.About{
+	padding:10px;
+	font-size:20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+th,td{
+padding: 2px;
+}
+
+#sm{
+border-color:white;
+border-style:solid;
+border-width:thin;
+}
+#wa{
+border-color:white;
+border-style:solid;
+border-width:thin;
+display:inline;
+}
+#li{
+border-color:white;
+border-style:solid;
+border-width:thin;
+display:inline;
+}
+#gh{
+border-color:white;
+border-style:solid;
+border-width:thin;
+display:inline;
+}
+#tweet{
+border-color:white;
+border-style:solid;
+border-width:thin;
+display:inline;
+}
+#gm{
+border-color:white;
+border-style:solid;
+border-width:thin;
+display:inline;
+}
