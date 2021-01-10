@@ -125,7 +125,7 @@ display:inline;
 
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 400px)and (min-width: 300px) {
+@media screen and (max-width: 420px)and (min-width: 300px) {
 
 	.header {
 		background-image: url('https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80');
@@ -171,13 +171,13 @@ display:inline;
 			  text-align:top;
 			  font-size:1.2rem;
 			  text-shadow:2px 2px 2px #000000;
-			  padding-top: 38%;
+			  padding-top: 48%;
 			  padding-left:9%;
 			  
 		  }
 	
 	}
-	@media screen and (max-width: 500px)and (min-width: 400px) {
+	@media screen and (max-width: 500px)and (min-width: 421px) {
 	
 		.header {
 			background-image: url('https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80');
